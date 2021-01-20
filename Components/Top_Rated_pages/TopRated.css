@@ -1,0 +1,84 @@
+.alice-carousel__prev-btn-item{
+	
+	padding: 31px;
+	position: relative;
+	top: -224px;
+	left: -94%;
+	border: 2px solid white;
+	border-radius: 100%;
+	background-color: white;
+     
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) ;
+
+}
+.alice-carousel__next-btn-item{
+	padding: 31px;
+	position: relative;
+	top: -224px;
+	left: 94%;
+	border: 2px solid white;
+	border-radius: 100%;
+	background-color: white;
+	
+	box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19) ;
+}
+
+
+
+img{
+	width: 235%;
+	height: 18rem;
+	border-radius: 0%; 
+}
+
+.rate_collection {
+	padding: 4px;
+	border-radius: 10px;
+
+}
+
+#top_destination{
+	font-weight: bold;
+	font-size: 255%;
+	text-align: center;
+	padding: 3%;
+	text-decoration: underline;
+	color: #2F3542;
+	position: relative;
+	top:17%;
+}
+
+#rate{
+	width: 65%;
+	margin-left: 13%;
+	padding: 10px;
+	background-color: white;
+	border-radius: 10px;
+	position: relative;
+	top:3%;
+	left: 6%;
+
+}
+#ratecard{
+	width: 40%;
+}
+#card_title{
+	font-size: 14px;
+	text-decoration: underline;
+	
+}
+
+#card_locai{
+	font-size: 11px;
+	color: #8C8B8B;
+}
+
+#card_ratings{
+	font-size: 12px;
+	color: #8C8B8B;
+}
+
+#card_price{
+	font-size: 12px;
+	color: #8C8B8B;
+}
